@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1675821887 source:c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 2\a22\main.cpp
+	"Neurona.h"
+	<iostream>
+	<conio.h>
+
+1675822455 c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 2\a22\neurona.h
+	<iostream>
+
+1675821717 source:c:\users\crist\desktop\quinto semestre\sem algoritmia\actividad 2\a22\neurona.cpp
+	"Neurona.h"
+	<iostream>
+
